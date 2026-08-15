@@ -238,7 +238,7 @@ export const MalaVisualization: React.FC<MalaVisualizationProps> = ({
         style={{ maxWidth: '800px', width: '100%', aspectRatio: '800/450' }}
       />
       <div className="flex items-center gap-4 mt-1">
-        <span className="text-[10px] md:text-xs tracking-[0.2em] uppercase text-white/25 font-cinzel">
+        <span className="text-[10px] md:text-xs tracking-[0.2em] uppercase text-white/25 font-cinzel md:hidden">
           {currentBeads} / 108
         </span>
       </div>
