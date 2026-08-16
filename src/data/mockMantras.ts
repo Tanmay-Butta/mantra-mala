@@ -5,7 +5,7 @@ export const MOCK_MANTRAS: Mantra[] = [
     id: 'mahamrityunjaya',
     name: 'Mahamrityunjaya Mantra',
     displayName: 'MAHAMRITYUNJAYA',
-    text: 'Om Tryambakam Yajamahe Sugandhim Pushtivardhanam',
+    text: 'Om Tryambakam Yajamahe ',
     description: 'The great death-conquering mantra, dedicated to Shiva. Recited for health, longevity, and liberation.',
     audioUrl: '/maha_mritunjay.mp3',
     target: 100000,
